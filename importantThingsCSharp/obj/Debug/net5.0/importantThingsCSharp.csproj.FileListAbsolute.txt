@@ -1,0 +1,16 @@
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.exe
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.deps.json
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.runtimeconfig.json
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.runtimeconfig.dev.json
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.dll
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\ref\importantThingsCSharp.dll
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\bin\Debug\net5.0\importantThingsCSharp.pdb
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.csproj.AssemblyReference.cache
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.AssemblyInfoInputs.cache
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.AssemblyInfo.cs
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.csproj.CoreCompileInputs.cache
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.dll
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\ref\importantThingsCSharp.dll
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.pdb
+D:\C#\projects\importantThingsCSharp\importantThingsCSharp\obj\Debug\net5.0\importantThingsCSharp.genruntimeconfig.cache
